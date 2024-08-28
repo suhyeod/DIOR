@@ -126,7 +126,7 @@ table {
 /*====================리셋코드=================*/
 
 body {
-  
+    text-decoration: none;
 }
 
 #mobile_header {
